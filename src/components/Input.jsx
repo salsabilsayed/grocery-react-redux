@@ -27,7 +27,7 @@ const Input = (props) => {
       props.showAlert(true, 'success', 'Value Changed');
     } else {
       dispatch(addItem(item));
-      props.showAlert(true, 'success', 'Item was addded to the list');
+      props.showAlert(true, 'success', 'Item was added to the list');
     }
   
     props.setInputValue("");

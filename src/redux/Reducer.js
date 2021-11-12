@@ -10,8 +10,6 @@ const groceryReducer = (state = initialState, action) =>{
     switch (action.type){
         case 'ADD_ITEM': return {
             ...state,
-            inputText: '',
-            isEditing: false,
             items: [...state.items, action.payload]
             }
 
