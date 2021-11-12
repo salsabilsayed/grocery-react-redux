@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/grocery-react-redux/static/css/main.caeda1c0.chunk.css",
-    "main.js": "/grocery-react-redux/static/js/main.b241097c.chunk.js",
-    "main.js.map": "/grocery-react-redux/static/js/main.b241097c.chunk.js.map",
+    "main.css": "/grocery-react-redux/static/css/main.bcc1ea70.chunk.css",
+    "main.js": "/grocery-react-redux/static/js/main.003d013f.chunk.js",
+    "main.js.map": "/grocery-react-redux/static/js/main.003d013f.chunk.js.map",
     "runtime-main.js": "/grocery-react-redux/static/js/runtime-main.cf5fab3f.js",
     "runtime-main.js.map": "/grocery-react-redux/static/js/runtime-main.cf5fab3f.js.map",
     "static/js/2.209460cc.chunk.js": "/grocery-react-redux/static/js/2.209460cc.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.369fbd31.chunk.js": "/grocery-react-redux/static/js/3.369fbd31.chunk.js",
     "static/js/3.369fbd31.chunk.js.map": "/grocery-react-redux/static/js/3.369fbd31.chunk.js.map",
     "index.html": "/grocery-react-redux/index.html",
-    "static/css/main.caeda1c0.chunk.css.map": "/grocery-react-redux/static/css/main.caeda1c0.chunk.css.map",
+    "static/css/main.bcc1ea70.chunk.css.map": "/grocery-react-redux/static/css/main.bcc1ea70.chunk.css.map",
     "static/js/2.209460cc.chunk.js.LICENSE.txt": "/grocery-react-redux/static/js/2.209460cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cf5fab3f.js",
     "static/js/2.209460cc.chunk.js",
-    "static/css/main.caeda1c0.chunk.css",
-    "static/js/main.b241097c.chunk.js"
+    "static/css/main.bcc1ea70.chunk.css",
+    "static/js/main.003d013f.chunk.js"
   ]
 }
